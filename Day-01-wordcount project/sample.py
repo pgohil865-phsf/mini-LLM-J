@@ -31,3 +31,5 @@ def display_top_words(word_count, top_n=10): #created a function named display_t
 file_path = "sample.txt" #defined the file path to the text file
 counts = word_count(file_path) #called the word_count function to get the word counts from the specified file
 display_top_words(counts) #called the display_top_words function to display the top words and their counts  z
+
+#updated
